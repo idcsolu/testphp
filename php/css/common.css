@@ -1,0 +1,29 @@
+  .topline {
+	border-top:2px solid black;
+   }
+   .botline{
+	border-bottom:2px solid black; 
+   }
+   .buttonline{
+	border-top:2px solid black; 
+        border-bottom:2px solid black; 
+   }
+   a:visited {
+	text-decoration: none; color: #333333; 
+   }
+
+   div#login_wrapper {
+	border : solid 1px gray;
+	position : absolute;
+	width  : 600 px;
+	height : 600 px;
+	border : 20px solid lightblue;
+	padding: 5px 20px;
+	flex-direction:column;
+	justify-content:center;
+	display:flex;
+	margin-top  : 50px;
+	margin-left : -260px;	
+	left:50%;
+    }
+
